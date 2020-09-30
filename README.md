@@ -8,9 +8,9 @@
 
 **About Me**
 
-- 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:;
-- 🌱 I’m currently learning MongoDB and React; 
-- 💬 How to reach me: [@LalJr_Harish](https://twitter.com/LalJr_Harish);
+- 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
+- 🌱 I’m currently learning MongoDB and React
+- 💬 How to reach me: [@LalJr_Harish](https://twitter.com/LalJr_Harish)
 
 **Languages**
 
