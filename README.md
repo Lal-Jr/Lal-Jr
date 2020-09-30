@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 <a href="https://github.com/Lal-Jr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Lal-Jr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lal-Jr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lal-Jr's GitHub Stats" />
+</a>
+
+
+<a href="https://github.com/Lal-Jr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
