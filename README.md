@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
 
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C%2B%2B&logoColor=00599C)
+
 <a href="https://github.com/Lal-Jr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
