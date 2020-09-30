@@ -6,11 +6,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
 
 **About Me**
-<div align="left">
   <p>➜ Self Taught Full Stack Developer 📖 </p>
   <p>➜ Aspiring Ethical Hacker 👨‍💻 </p>
   <p>➜ Night Owl 🦉 </p>
- </div>
 
 **Languages**
 
