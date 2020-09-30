@@ -18,6 +18,8 @@
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C%2B%2B&logoColor=00599C)
 
+<details>
+  <summary>Lal-Jr's GitHub Stats</summary>
 <a href="https://github.com/Lal-Jr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lal-Jr&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="Lal-Jr's GitHub Stats" />
 </a>
@@ -26,3 +28,4 @@
 <a href="https://github.com/Lal-Jr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
 </a>
+</details> 
