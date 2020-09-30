@@ -1,13 +1,3 @@
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 <img align="center" alt="GIF" height="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -17,9 +7,9 @@
 
 **About Me**
 <div align="left">
-  --> Self Taught Full Stack Developer 
-  --> Aspiring Ethical Hacker
-  --> Night Owl
+  -  ➜ Self Taught Full Stack Developer 
+  -  ➜ Aspiring Ethical Hacker
+  -  ➜ Night Owl
  </div>
 
 **Languages**
