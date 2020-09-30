@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
 
 ![Lal-Jr's github stats](https://github-readme-stats.vercel.app/api?username=Lal-Jr&count_private=true&show_icons=true&theme=dark)
 
