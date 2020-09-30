@@ -13,19 +13,18 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 
 <details>
-  <summary>Lal-Jr's GitHub Stats</summary>
+<summary>Lal-Jr's GitHub Stats</summary>
 <a href="https://github.com/Lal-Jr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lal-Jr&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="Lal-Jr's GitHub Stats" />
 </a>
-
-
+  
 <a href="https://github.com/Lal-Jr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
 </a>
