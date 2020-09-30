@@ -7,9 +7,11 @@
 </div>
 
 **About Me**
-  <p>➜ Self Taught Full Stack Developer 📖 </br>
-     ➜ Aspiring Ethical Hacker 👨‍💻 </br>
-     ➜ Night Owl 🦉 </p>
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning MongoDB and Java; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@LalJr_Harish](https://twitter.com/LalJr_Harish);
 
 **Languages**
 
