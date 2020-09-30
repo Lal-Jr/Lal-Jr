@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
 
+<a href="https://github.com/Lal-Jr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Lal-Jr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lal-Jr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lal-Jr's GitHub Stats" />
+</a>
+
 ![Lal-Jr's github stats](https://github-readme-stats.vercel.app/api?username=Lal-Jr&count_private=true&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact)](https://github.com/Lal-Jr/github-readme-stats)
