@@ -7,9 +7,9 @@
 
 **About Me**
 <div align="left">
-  -  ➜ Self Taught Full Stack Developer 
-  -  ➜ Aspiring Ethical Hacker
-  -  ➜ Night Owl
+  <p>➜ Self Taught Full Stack Developer </p>
+  <p>➜ Aspiring Ethical Hacker </p>
+  <p>➜ Night Owl </p>
  </div>
 
 **Languages**
