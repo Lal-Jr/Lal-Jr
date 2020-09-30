@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Lal-Jr's github stats](https://github-readme-stats.vercel.app/api?username=Lal-Jr&count_private=true&show_icons=true&theme=dracule)
+![Lal-Jr's github stats](https://github-readme-stats.vercel.app/api?username=Lal-Jr&count_private=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact)](https://github.com/Lal-Jr/github-readme-stats)
