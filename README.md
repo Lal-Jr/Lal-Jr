@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-# Hey, I am Harish Lal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I am Harish Lal! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
 
