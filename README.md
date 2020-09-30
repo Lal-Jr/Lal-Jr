@@ -4,7 +4,6 @@
 # Hey <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px"> , I am Lal-Jr! 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
-</div>
 
 **About Me**
   <p>➜ Self Taught Full Stack Developer 📖 </br>
