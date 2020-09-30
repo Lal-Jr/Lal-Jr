@@ -30,3 +30,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
 </a>
 </details> 
+
+[![Lal-Jr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lal-Jr)](https://github.com/Lal-Jr/github-readme-stats)
