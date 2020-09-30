@@ -1,8 +1,3 @@
-<!--
-**Lal-Jr/Lal-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -19,6 +14,13 @@ Here are some ideas to get you started:
 # Hey <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px"> , I am Lal-Jr! 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
+
+**About Me**
+<div align="left">
+  --> Self Taught Full Stack Developer 
+  --> Aspiring Ethical Hacker
+  --> Night Owl
+ </div>
 
 **Languages**
 
