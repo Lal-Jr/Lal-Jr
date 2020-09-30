@@ -1,5 +1,4 @@
 <div align="center">
-
 <img align="center" alt="GIF" height="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 # Hey <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px"> , I am Lal-Jr! 
@@ -10,9 +9,8 @@
 **About Me**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning MongoDB and Java; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@LalJr_Harish](https://twitter.com/LalJr_Harish);
+- 🌱 I’m currently learning MongoDB and React; 
+- 💬 How to reach me: [@LalJr_Harish](https://twitter.com/LalJr_Harish);
 
 **Languages**
 
@@ -21,6 +19,8 @@
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+
+**Frameworks**
 
 <details>
 <summary>Lal-Jr's GitHub Stats</summary>
