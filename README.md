@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img align="center" alt="GIF" height="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="center" alt="GIF" height="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 # Hey, I am Harish Lal! <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px">
 
