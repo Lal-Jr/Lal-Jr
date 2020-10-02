@@ -24,6 +24,12 @@
 
 ## Frameworks 🖥
 
+---
+
+<img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/>
+
+---
+
 ##  GitHub Stats 🏆
 <a href="https://github.com/Lal-Jr">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lal-Jr&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="Lal-Jr's GitHub Stats" />
