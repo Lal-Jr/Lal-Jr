@@ -39,8 +39,11 @@
 <a href="https://github.com/Lal-Jr">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
 </a>
-  <summary> Lal-Jr's Wakatime Stats </summary>
- [![Lal-Jr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LalJr)](https://github.com/Lal-Jr/github-readme-stats)
+</details>
+<details>
+<summary> Lal-Jr's Wakatime Stats </summary>
+
+[![Lal-Jr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LalJr)](https://github.com/Lal-Jr/github-readme-stats)
 
 <img align="center" height="500px" width="500px" src="https://wakatime.com/share/@LalJr/3aa951eb-c002-4693-b7ae-9d6af438e096.svg" />
 </details>
