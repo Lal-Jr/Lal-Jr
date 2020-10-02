@@ -10,7 +10,9 @@
 
 - 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
 - 🌱 I’m currently learning MongoDB and React
-- 💬 How to reach me: [@LalJr_Harish](https://twitter.com/LalJr_Harish)
+- 💬 How to reach me: 
+     **Twitter** [@LalJr_Harish](https://twitter.com/LalJr_Harish)
+     **Instagram** [@_lal._.jr_](https://www.instagram.com/_lal._.jr_/?hl=en)
 
 ## Languages
 
