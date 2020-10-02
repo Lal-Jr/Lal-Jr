@@ -25,6 +25,13 @@
 
 ## Frameworks 🖥
 
+
+
+
+
+
+
+
 ---
 
 <img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/>
@@ -42,10 +49,8 @@
 </details>
 <details>
 <summary> Lal-Jr's Wakatime Stats </summary>
-
-[![Lal-Jr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LalJr)](https://github.com/Lal-Jr/github-readme-stats)
-
-<img align="center" height="500px" width="500px" src="https://wakatime.com/share/@LalJr/3aa951eb-c002-4693-b7ae-9d6af438e096.svg" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
 
 --- 
