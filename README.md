@@ -25,7 +25,6 @@
 ## Frameworks
 
 ##  GitHub Stats
-
 <a href="https://github.com/Lal-Jr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lal-Jr&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="Lal-Jr's GitHub Stats" />
 </a>
@@ -33,5 +32,7 @@
 <a href="https://github.com/Lal-Jr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
 </a>
+
 ---
+
 <img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/>
