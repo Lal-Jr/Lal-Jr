@@ -7,12 +7,13 @@
 
 ## About Me 👱🏼
 
-<img align="right" alt="GIF" height="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 - 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
 - 🌱 I’m currently learning MongoDB and React
 - 💬 How to reach me: 
     - **Twitter** [@LalJr_Harish](https://twitter.com/LalJr_Harish)
     - **Instagram** [@Lal-Jr](https://www.instagram.com/_lal._.jr_/?hl=en)
+    
+<img align="right" alt="GIF" height="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 ## Languages 📚 
 
@@ -33,7 +34,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lal-Jr&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="Lal-Jr's GitHub Stats" />
 </a> 
 <a href="https://github.com/Lal-Jr">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
+<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </a>
 
 ---  
