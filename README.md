@@ -1,5 +1,4 @@
 <div align="center">
-<img align="right" alt="GIF" height="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
   
 # Hey <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px"> , I am Lal-Jr! 
 
@@ -8,6 +7,7 @@
 
 ## About Me 👱🏼
 
+<img align="right" alt="GIF" height="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 - 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
 - 🌱 I’m currently learning MongoDB and React
 - 💬 How to reach me: 
