@@ -50,11 +50,11 @@
 <details>
 <summary> Lal-Jr's Wakatime Stats </summary>
 <!--START_SECTION:waka--> 
-  
+```text
 Java  -->  3 hrs 15 mins   ███████████████████▓░░░░░   78.71 %              
 C++   -->  50 mins         █████░░░░░░░░░░░░░░░░░░░░   20.31 %        
 JSON  -->  1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %      
-
+```
 <!--END_SECTION:waka-->
 </details>
 
