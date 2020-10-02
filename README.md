@@ -25,7 +25,7 @@
 
 ## Frameworks 🖥
 
-[![Lal-Jr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lal-Jr)](https://github.com/Lal-Jr/github-readme-stats)
+[![Lal-Jr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lal-Jr)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/>
