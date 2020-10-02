@@ -36,11 +36,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
 </a>
 
----
-<p>                              
+---  
 <a href="https://twitter.com/LalJr_Harish">
   <img align="left" alt="Lal-Jr's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a></>
+</a>
 <a href="https://www.linkedin.com/in/Lal-Jr/">
   <img align="left" alt="Lal-Jr's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
