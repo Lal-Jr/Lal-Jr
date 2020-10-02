@@ -22,6 +22,7 @@
 
 ## Frameworks
 
+##  GitHub Stats
 <details>
 <summary>Lal-Jr's GitHub Stats</summary>
 <a href="https://github.com/Lal-Jr">
@@ -33,5 +34,4 @@
 </a>
 </details> 
 
-##  GitHub Stats
 <img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/>
