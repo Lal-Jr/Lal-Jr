@@ -6,13 +6,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
 </div>
 
-**About Me**
+## About Me
 
 - 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
 - 🌱 I’m currently learning MongoDB and React
 - 💬 How to reach me: [@LalJr_Harish](https://twitter.com/LalJr_Harish)
 
-**Languages**
+## Languages
 
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -20,7 +20,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 
-**Frameworks**
+## Frameworks
 
 <details>
 <summary>Lal-Jr's GitHub Stats</summary>
