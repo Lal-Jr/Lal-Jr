@@ -33,8 +33,5 @@
 </a>
 </details> 
 
-<div align=center>
-
+##  GitHub Stats
 <img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/>
-
-</div>
