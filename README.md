@@ -5,6 +5,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
 </div>
 
+Hi, I'm Harish Lal, a Self Taught Full Stack Developer 📖 and an Aspiring Ethical Hacker 👨‍💻 . Currently, pursuing BTech 📚 in Electrical and Electronics Engineering from Govt. Enginnering College, Barton Hill, Trivandrum. Beside's programming, I enjoy eating food and travelling.
+
+<img align="right" alt="GIF" height="300px" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+
 ## About Me 👱🏼
 
 - 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
@@ -13,8 +17,6 @@
     - **Twitter** [@LalJr_Harish](https://twitter.com/LalJr_Harish)
     - **Instagram** [@Lal-Jr](https://www.instagram.com/_lal._.jr_/?hl=en)
     
-<img align="right" alt="GIF" height="300px" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
-
 ## Languages 📚 
 
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
@@ -22,15 +24,6 @@
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-
-## Frameworks 🖥
-
-
-
-
-
-
-
 
 ---
 
