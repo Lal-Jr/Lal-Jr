@@ -5,7 +5,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
 </div>
 
-Hi, I'm Harish Lal, a Self Taught Full Stack Developer 📖 and an Aspiring Ethical Hacker 👨‍💻 . Currently, pursuing BTech 📚 in Electrical and Electronics Engineering from Govt. Enginnering College, Barton Hill, Trivandrum. Beside's programming, I enjoy eating food and travelling.
+Hi, I'm Harish Lal, a Self Taught Full Stack Developer 📖 and an Aspiring Ethical Hacker 👨‍💻 . Currently, pursuing BTech🏆 in Electrical and Electronics Engineering from Govt. Enginnering College, Barton Hill, Trivandrum. Beside's programming, I enjoy eating food and travelling.
 
 <img align="right" alt="GIF" height="300px" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
 
@@ -15,7 +15,7 @@ Hi, I'm Harish Lal, a Self Taught Full Stack Developer 📖 and an Aspiring Ethi
 - 🌱 I’m currently learning MongoDB and React
 - 💬 How to reach me: 
     - **Twitter** [@LalJr_Harish](https://twitter.com/LalJr_Harish)
-    - **Instagram** [@Lal-Jr](https://www.instagram.com/_lal._.jr_/?hl=en)
+    - **Instagram** [@Lal-Jr](https://www.instagram.com/_lal._.jr_/)
     
 ## Languages 📚 
 
@@ -29,7 +29,7 @@ Hi, I'm Harish Lal, a Self Taught Full Stack Developer 📖 and an Aspiring Ethi
 
 <img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/>
 
-##  Stats 🏆
+##  Stats 📈 
 
 <details>
   <summary> Lal-Jr's GitHub Stats </summary>
