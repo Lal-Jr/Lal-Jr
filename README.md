@@ -1,5 +1,3 @@
-<img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/>
-
 <div align="center">
 <img align="right" alt="GIF" height="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
   
@@ -34,3 +32,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
 </a>
 </details> 
+
+# Contributions As Conway's Game of Life
+<img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/>
