@@ -25,7 +25,7 @@
 
 ## Frameworks 🖥
 
-[![Lal-Jr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LalJr)](https://github.com/anuraghazra/github-readme-stats)
+[![Lal-Jr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LalJr)](https://github.com/Lal-Jr/github-readme-stats)
 ---
 
 <img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/>
@@ -41,7 +41,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
 </a>
 </details>
----  
+
+--- 
+
 <a href="https://twitter.com/LalJr_Harish">
   <img align="left" alt="Lal-Jr's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
