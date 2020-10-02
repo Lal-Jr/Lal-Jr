@@ -33,5 +33,7 @@
 </a>
 </details> 
 
+<div align=center>
 # Contributions As Conway's Game of Life
 <img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/>
+</div>
