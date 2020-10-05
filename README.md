@@ -43,7 +43,6 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <details>
 <summary> Lal-Jr's Wakatime Stats </summary>
 <!--START_SECTION:waka-->
-  
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3792%20lines%20of%20code-blue)
@@ -56,7 +55,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories
+> 📜 13 Public Repositories
  > 
 > 🔑 2 Private Repositories 
 
@@ -72,9 +71,9 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.44% 
+Monday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    30 commits     ██████░░░░░░░░░░░░░░░░░░░   24.79% 
+Wednesday    28 commits     █████░░░░░░░░░░░░░░░░░░░░   23.14% 
 Thursday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48% 
 Friday       68 commits     ██████████████░░░░░░░░░░░   56.2% 
 Saturday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.26% 
