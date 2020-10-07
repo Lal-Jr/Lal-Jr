@@ -42,6 +42,9 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 </details>
 <details>
 <summary> Lal-Jr's Wakatime Stats </summary>
+  <!--START_SECTION:waka-->
+  
+  <!--END_SECTION:waka-->
 </details>
 
 --- 
