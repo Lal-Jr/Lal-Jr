@@ -1,13 +1,14 @@
 name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
     # Runs every hour  
     - cron: '0 */1 * * *'
       
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: ReadmeUpdate_Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: LalJr/waka-readme-stats@master
