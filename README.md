@@ -2,7 +2,9 @@
   
 # Hey <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px"> , I am Lal-Jr! 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3893%20lines%20of%20code-blue)
 </div>
 
 Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethical Hacker 👨‍💻 . Currently, pursuing BTech🏆 in Electrical and Electronics Engineering from Govt. Enginnering College, Barton Hill, Trivandrum. Beside's programming, I'm basically a foodie and movie enthusiast.
@@ -43,7 +45,6 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <details>
 <summary> Lal-Jr's Wakatime Stats </summary>
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3893%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
