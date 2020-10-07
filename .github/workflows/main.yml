@@ -19,7 +19,7 @@ jobs:
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE: "True"
-          SHOW_OS: "fALSE"
+          SHOW_OS: "FALSE"
           SHOW_PROJECTS: "FALSE"
           SHOW_TIMEZONE: "FALSE"
           SHOW_EDITORS: "TRUE"
