@@ -43,13 +43,11 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <details>
 <summary> Lal-Jr's Wakatime Stats </summary>
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3893%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 242 Contributions in the Year 2020
+> 🏆 243 Contributions in the Year 2020
  > 
 > 📦 339 Bytes Used in Github's Storage 
  > 
@@ -85,8 +83,6 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
-
 💬 Programming Languages: 
 Java                     4 hrs 43 mins       ██████████████░░░░░░░░░░░   58.37% 
 Python                   2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   30.71% 
@@ -97,28 +93,7 @@ Git Config               0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  8 hrs 5 mins        █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-Unknown Project          5 hrs 27 mins       ████████████████░░░░░░░░░   67.43% 
-Text-To-Speech           1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
-Ticket_Reservation       51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
-Password-Protected-PDF   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
-Phone-Details-Collector  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
-
-💻 Operating System: 
-Windows                  8 hrs 5 mins        █████████████████████████   100.0%
-
 ```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     4 repos             ███████████░░░░░░░░░░░░░░   44.44% 
-C++                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Java                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Python                   1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
-```
-
 
 **Timeline**
 
