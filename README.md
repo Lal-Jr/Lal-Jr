@@ -44,14 +44,11 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <details>
 <summary> Lal-Jr's Wakatime Stats </summary>
   <!--START_SECTION:waka-->
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3893%20lines%20of%20code-blue)
-
 **🐱 My Github Data** 
 
-> 🏆 249 Contributions in the Year 2020
+> 🏆 252 Contributions in the Year 2020
  > 
-> 📦 372 Bytes Used in Github's Storage 
+> 📦 374 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,8 +70,8 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 ```text
 Monday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    24 commits     █████░░░░░░░░░░░░░░░░░░░░   19.83% 
-Thursday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48% 
+Wednesday    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Thursday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
 Friday       68 commits     ██████████████░░░░░░░░░░░   56.2% 
 Saturday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.26% 
 Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
