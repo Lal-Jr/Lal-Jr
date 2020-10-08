@@ -45,6 +45,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <summary> Lal-Jr's Wakatime Stats </summary>
   <!--START_SECTION:waka-->
 ```text
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3676%20lines%20of%20code-blue)
