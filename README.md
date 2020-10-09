@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px"> , I am Lal-Jr! 
+# Hey <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px"> , I am Lal-Jr <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="70px">
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
 
@@ -40,7 +40,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <a href="https://github.com/Lal-Jr">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
 </a>
-</details>
+</details>width="29px"
 <details>
 <summary> Lal-Jr's Wakatime Stats </summary>
 <!--START_SECTION:waka-->
