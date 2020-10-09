@@ -44,20 +44,19 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <details>
 <summary> Lal-Jr's Wakatime Stats </summary>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)     
-  
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3676%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 261 Contributions in the Year 2020
+> 🏆 269 Contributions in the Year 2020
  > 
-> 📦 324 Bytes Used in Github's Storage 
+> 📦 326 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories
+> 📜 15 Public Repositories
  > 
 > 🔑 2 Private Repositories 
 
@@ -99,6 +98,8 @@ VS Code                  3 hrs 56 mins       ███████████�
 **Timeline**
 
 ![Chart not found](https://github.com/Lal-Jr/Lal-Jr/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 </details>
 
