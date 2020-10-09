@@ -46,13 +46,13 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3678%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3933%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 269 Contributions in the Year 2020
+> 🏆 270 Contributions in the Year 2020
  > 
-> 📦 339 Bytes Used in Github's Storage 
+> 📦 342 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,8 +63,8 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    46 commits     █████████░░░░░░░░░░░░░░░░   38.02% 
-🌆 Daytime    51 commits     ██████████░░░░░░░░░░░░░░░   42.15% 
+🌞 Morning    45 commits     █████████░░░░░░░░░░░░░░░░   37.19% 
+🌆 Daytime    52 commits     ██████████░░░░░░░░░░░░░░░   42.98% 
 🌃 Evening    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
 🌙 Night      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.96%
 
