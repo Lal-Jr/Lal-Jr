@@ -44,7 +44,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <details>
 <summary> Lal-Jr's Wakatime Stats </summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3676%20lines%20of%20code-blue)
 
@@ -52,7 +52,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 
 > 🏆 269 Contributions in the Year 2020
  > 
-> 📦 326 Bytes Used in Github's Storage 
+> 📦 336 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
