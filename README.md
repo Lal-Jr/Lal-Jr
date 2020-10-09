@@ -40,10 +40,11 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <a href="https://github.com/Lal-Jr">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
 </a>
-</details>width="29px"
+</details>
 <details>
 <summary> Lal-Jr's Wakatime Stats </summary>
 <!--START_SECTION:waka-->
+</br>
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3933%20lines%20of%20code-blue)
