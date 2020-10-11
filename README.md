@@ -47,13 +47,13 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3678%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3728%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 280 Contributions in the Year 2020
  > 
-> 📦 385 Bytes Used in Github's Storage 
+> 📦 396 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
