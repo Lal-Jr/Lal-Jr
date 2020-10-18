@@ -13,7 +13,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 ## About Me 👱🏼
 
 - 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
-- 🌱 I’m currently learning MongoDB and React
+- 🌱 I’m currently learning MongoDB and Vue.JS
 - 💬 How to reach me: 
     - **Twitter** [@LalJr_Harish](https://twitter.com/LalJr_Harish)
     - **Instagram** [@Lal-Jr](https://www.instagram.com/_lal._.jr_/)
