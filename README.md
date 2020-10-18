@@ -47,15 +47,15 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5985%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6300%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 304 Contributions in the Year 2020
+> 🏆 311 Contributions in the Year 2020
  > 
 > 📦 4.9 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories
  > 
@@ -64,8 +64,8 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    41 commits     ████████░░░░░░░░░░░░░░░░░   32.28% 
-🌆 Daytime    58 commits     ███████████░░░░░░░░░░░░░░   45.67% 
+🌞 Morning    39 commits     ███████░░░░░░░░░░░░░░░░░░   30.71% 
+🌆 Daytime    60 commits     ███████████░░░░░░░░░░░░░░   47.24% 
 🌃 Evening    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
 🌙 Night      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.72%
 
@@ -77,9 +77,9 @@ Monday       15 commits     ███░░░░░░░░░░░░░░�
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Wednesday    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
 Thursday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.3% 
-Friday       70 commits     █████████████░░░░░░░░░░░░   55.12% 
+Friday       68 commits     █████████████░░░░░░░░░░░░   53.54% 
 Saturday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
-Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
+Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
 
 ```
 
