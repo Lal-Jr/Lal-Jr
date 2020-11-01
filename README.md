@@ -45,9 +45,9 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <summary> Lal-Jr's Wakatime Stats </summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62540%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71926%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -88,11 +88,11 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 16 mins        █████████████░░░░░░░░░░░░   54.94% 
-Java                     1 hr 2 mins         ███████████░░░░░░░░░░░░░░   45.06%
+Java                     1 hr 2 mins         ████████████░░░░░░░░░░░░░   51.37% 
+Python                   59 mins             ████████████░░░░░░░░░░░░░   48.63%
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
