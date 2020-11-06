@@ -88,10 +88,10 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
