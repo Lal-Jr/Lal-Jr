@@ -47,7 +47,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71957%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73219%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -88,12 +88,12 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 57 mins       ███████████████████████░░   93.04% 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
+Python                   5 hrs 39 mins       ███████████████████████░░   93.85% 
+HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.14% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  5 hrs 19 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
