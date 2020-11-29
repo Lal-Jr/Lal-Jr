@@ -51,7 +51,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 
 **🐱 My Github Data** 
 
-> 📦 6.0 kB Used in Github's Storage 
+> 📦 6.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
