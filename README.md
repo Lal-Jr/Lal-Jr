@@ -57,9 +57,9 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
  > 
 > 💼 Opted to Hire
  > 
-> 📜 23 Public Repositories
+> 📜 23 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 2 Private Repositories  
 
 **I'm an Early 🐤** 
 
