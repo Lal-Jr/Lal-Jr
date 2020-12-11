@@ -47,11 +47,11 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76316%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 372 Contributions in the Year 2020
+> 🏆 373 Contributions in the Year 2020
  > 
 > 📦 17.6 kB Used in Github's Storage 
  > 
@@ -88,12 +88,14 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 11 mins       ████████████████████████░   96.61% 
-Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Python                   2 hrs 11 mins       ███████████████████████░░   94.98% 
+Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
