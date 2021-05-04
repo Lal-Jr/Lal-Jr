@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px"> , I am Lal-Jr <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="70px">
+# Hey <!-- <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px"> --> , I am Lal-Jr <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="70px">
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
 
@@ -47,7 +47,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 </details>
 
 <details>	
-  <summary><b>Lal-Jr's GitHubb Streaks</b></summary>
+  <summary><b>Lal-Jr's GitHub Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lal-Jr&hide_border=true&theme=tokyonight&icon_color=6392DF" />
