@@ -52,7 +52,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
   <summary><b>Lal-Jr's GitHubb Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lal-Jr&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lal-Jr&hide_border=true&theme=tokyonight&icon_color=6392DF" />
 </details>
 
 <details>
