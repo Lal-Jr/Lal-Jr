@@ -18,7 +18,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
     - **Twitter** [@LalJr_Harish](https://twitter.com/LalJr_Harish)
     - **Instagram** [@Lal-Jr](https://www.instagram.com/_lal._.jr_/)
     
-##Languages and Tools 📚 
+## Languages and Tools 📚 
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
@@ -39,7 +39,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 ##  Stats 📈 
 
 <details>
-  <summary> Lal-Jr's GitHub Stats </summary>
+  <summary><b>Lal-Jr's GitHub Stats</b></summary>
 <a href="https://github.com/Lal-Jr">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lal-Jr&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="Lal-Jr's GitHub Stats" />
 </a> 
@@ -49,14 +49,14 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>Lal-Jr's GitHubb Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lal-Jr&hide_border=true" />
 </details>
 
 <details>
-<summary> Lal-Jr's Wakatime Stats </summary>
+<summary><b>Lal-Jr's Wakatime Stats</b></summary>
   
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
