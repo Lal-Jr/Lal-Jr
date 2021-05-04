@@ -32,9 +32,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
----
-
-<img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/>
+<!-- <img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/> -->
 
 ##  Stats 📈 
 
