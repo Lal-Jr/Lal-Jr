@@ -18,13 +18,19 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
     - **Twitter** [@LalJr_Harish](https://twitter.com/LalJr_Harish)
     - **Instagram** [@Lal-Jr](https://www.instagram.com/_lal._.jr_/)
     
-## Languages 📚 
+##Languages and Tools 📚 
 
-![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ---
 
@@ -41,6 +47,14 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&layout=compact&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" />
 </a>
 </details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lal-Jr&hide_border=true" />
+</details>
+
 <details>
 <summary> Lal-Jr's Wakatime Stats </summary>
   
