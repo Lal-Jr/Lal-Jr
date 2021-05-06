@@ -15,7 +15,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 - 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
 - 🌱 I’m currently mastering ReactJS
 - 💬 How to reach me: 
-    - **Twitter** [@LalJr_Harish](https://twitter.com/LalJr_Harish)
+    - **Twitter** [@LalJr_Harish](https://www.linkedin.com/in/laljr-harish/)
     - **Instagram** [@Lal-Jr](https://www.instagram.com/_lal._.jr_/)
     
 ## Languages and Tools 📚 
