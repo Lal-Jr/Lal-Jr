@@ -15,7 +15,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 - 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
 - 🌱 I’m currently mastering ReactJS
 - 💬 How to reach me: 
-    - **Twitter** [@LalJr_Harish](https://www.linkedin.com/in/laljr-harish/)
+    - **LinkedIn** [@LalJr_Harish](https://www.linkedin.com/in/laljr-harish/)
     - **Instagram** [@Lal-Jr](https://www.instagram.com/_lal._.jr_/)
     
 ## Languages and Tools 📚 
@@ -37,7 +37,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 ##  Stats 📈 
 
 <details>
-  <summary><b>Lal-Jr's GitHub Stats</b></summary>
+  <summary><b>Lal-Jr's GitHub Stats 📊</b></summary>
   
   <br />
 <a href="https://github.com/Lal-Jr">
@@ -49,14 +49,14 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 </details>
 
 <details>	
-  <summary><b>Lal-Jr's GitHub Streaks</b></summary>
+  <summary><b>Lal-Jr's GitHub Streaks 🔥</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lal-Jr&hide_border=true&theme=tokyonight&icon_color=6392DF" />
 </details>
 
 <details>
-<summary><b>Lal-Jr's Wakatime Stats</b></summary>
+<summary><b>Lal-Jr's Wakatime Stats ⏲️</b></summary>
   
   <br />
   
