@@ -38,6 +38,8 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 
 <details>
   <summary><b>Lal-Jr's GitHub Stats</b></summary>
+  
+  <br />
 <a href="https://github.com/Lal-Jr">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lal-Jr&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs&hide_border=true" alt="Lal-Jr's GitHub Stats" />
 </a> 
