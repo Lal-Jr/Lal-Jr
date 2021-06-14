@@ -67,7 +67,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 
 **🐱 My Github Data** 
 
-> 🏆 242 Contributions in the Year 2021
+> 🏆 244 Contributions in the Year 2021
  > 
 > 📦 207.2 kB Used in Github's Storage 
  > 
@@ -89,9 +89,9 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
+Monday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
 Tuesday      82 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
-Wednesday    57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Wednesday    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
 Thursday     70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
 Friday       128 commits    ███████░░░░░░░░░░░░░░░░░░   28.07% 
 Saturday     34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
