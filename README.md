@@ -69,7 +69,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 
 > 🏆 182 Contributions in the Year 2021
  > 
-> 📦 224.7 kB Used in Github's Storage 
+> 📦 225.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
