@@ -69,7 +69,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 
 > 🏆 342 Contributions in the Year 2021
  > 
-> 📦 195.9 kB Used in Github's Storage 
+> 📦 222.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -82,7 +82,7 @@ Hi, I'm Harish Lal, Self Taught Full Stack Developer 📖 and an Aspiring Ethica
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2021
+ Last Updated on 08/09/2021
 <!--END_SECTION:waka-->
 </details>
 
