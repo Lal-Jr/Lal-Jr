@@ -69,7 +69,7 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 > 🏆 350 Contributions in the Year 2021
  > 
-> 📦 222.3 kB Used in Github's Storage 
+> 📦 222.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -112,6 +112,10 @@ JSON                     32 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  17 hrs 25 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  13 hrs 49 mins      ███████████████████░░░░░░   79.34% 
+Linux                    3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66%
 
 ```
 
