@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey <!-- <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="29px"> --> , I am Lal-Jr <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="70px">
+# Hey , I am Lal-Jr <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="70px">
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
 
@@ -8,12 +8,12 @@
 
 Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker 👨‍💻 . Currently, pursuing BTech🏆 in Electrical and Electronics Engineering from Govt. Engineering College, Barton Hill, Trivandrum. Beside's programming, I'm basically a Foodie and Movie enthusiast.
 
-<img align="right" alt="GIF" height="300px" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+<img align="right" alt="GIF" src="https://c.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif" width="500" height="275"/>
 
 ## About Me 👱🏼
 
 - 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
-- 🌱 I’m currently mastering ReactJS
+- 🌱 I’m currently mastering Django and NextJS
 - 💬 How to reach me: 
     - **LinkedIn** [@LalJr_Harish](https://www.linkedin.com/in/laljr-harish/)
     - **Instagram** [@Lal-Jr](https://www.instagram.com/_lal._.jr_/)
@@ -78,10 +78,6 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
 </details>
-
-
-
-<!-- <img align="center" alt="GIF" src="https://github4life.herokuapp.com/Lal-Jr.gif"/> -->
 
 ##  Stats 📈 
 
