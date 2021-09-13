@@ -124,7 +124,7 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 > 🏆 358 Contributions in the Year 2021
  > 
-> 📦 222.5 kB Used in Github's Storage 
+> 📦 226.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
