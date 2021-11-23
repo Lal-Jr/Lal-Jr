@@ -159,17 +159,13 @@ Sunday       35 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSX                      1 hr 28 mins        ████████████░░░░░░░░░░░░░   49.03% 
-JavaScript               1 hr 24 mins        ███████████░░░░░░░░░░░░░░   47.21% 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 59 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -178,7 +174,7 @@ Windows                  2 hrs 59 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/11/2021
+ Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
 </details>
 
