@@ -130,7 +130,7 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
  > 
 > 📜 27 Public Repositories 
  > 
-> 🔑 15 Private Repositories  
+> 🔑 14 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
