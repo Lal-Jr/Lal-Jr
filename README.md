@@ -159,13 +159,14 @@ Sunday       35 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              █████████████████████████   100.0% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -174,7 +175,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/11/2021
+ Last Updated on 28/11/2021
 <!--END_SECTION:waka-->
 </details>
 
