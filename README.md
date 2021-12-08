@@ -116,6 +116,8 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
   <br />
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177%20Thousand%20lines%20of%20code-blue)
@@ -124,7 +126,7 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 > 🏆 613 Contributions in the Year 2021
  > 
-> 📦 272.1 kB Used in GitHub's Storage 
+> 📦 272.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -159,17 +161,17 @@ Sunday       49 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      3 hrs 15 mins       ███████████████████████░░   92.32% 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+C++                      3 hrs 31 mins       ██████████████████████░░░   87.61% 
+Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.0%
+VS Code                  4 hrs               █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 30 mins       ████████████████████████░   99.08% 
-Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
+Windows                  3 hrs 27 mins       █████████████████████░░░░   85.99% 
+Linux                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.01%
 
 ```
 
@@ -178,7 +180,7 @@ Linux                    1 min               ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/12/2021
+ Last Updated on 08/12/2021
 <!--END_SECTION:waka-->
 </details>
 
