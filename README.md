@@ -116,7 +116,7 @@ Hi, I'm Harish Lal, React Django Developer ðŸ“– and an Aspiring Ethical Hacker ð
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
