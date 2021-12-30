@@ -116,8 +116,6 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184%20Thousand%20lines%20of%20code-blue)
@@ -126,7 +124,7 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 > 🏆 746 Contributions in the Year 2021
  > 
-> 📦 289.1 kB Used in GitHub's Storage 
+> 📦 289.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -161,18 +159,17 @@ Sunday       51 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 9 mins        █████████████░░░░░░░░░░░░   53.8% 
-JSX                      4 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   42.15% 
-CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.83% 
-SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+JSX                      2 hrs 23 mins       ████████████░░░░░░░░░░░░░   50.17% 
+JavaScript               2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   46.7% 
+CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-VS Code                  11 hrs 26 mins      █████████████████████████   100.0%
+VS Code                  4 hrs 45 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs 38 mins       █████████████████████░░░░   84.28% 
-Linux                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72%
+Windows                  4 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
@@ -181,7 +178,7 @@ Linux                    1 hr 47 mins        ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
 </details>
 
