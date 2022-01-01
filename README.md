@@ -116,15 +116,13 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-175%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 743 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 287.9 kB Used in GitHub's Storage 
  > 
@@ -161,16 +159,17 @@ Sunday       51 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               25 mins             ███████████████░░░░░░░░░░   60.3% 
-JSX                      16 mins             █████████░░░░░░░░░░░░░░░░   39.47% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+JSX                      1 hr 10 mins        ████████████░░░░░░░░░░░░░   49.95% 
+JavaScript               1 hr 3 mins         ███████████░░░░░░░░░░░░░░   45.58% 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.96% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 20 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.0%
+Windows                  2 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
@@ -179,7 +178,7 @@ Windows                  42 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 </details>
 
