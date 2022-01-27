@@ -177,7 +177,7 @@ Windows                  4 hrs 30 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2022 12:37:02 UTC
+ Last Updated on 27/01/2022 18:30:58 UTC
 <!--END_SECTION:waka-->
 </details>
 
