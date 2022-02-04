@@ -116,7 +116,7 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -124,9 +124,9 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 **🐱 My GitHub Data** 
 
-> 🏆 100 Contributions in the Year 2022
+> 🏆 110 Contributions in the Year 2022
  > 
-> 📦 289.2 kB Used in GitHub's Storage 
+> 📦 289.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -138,19 +138,19 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 ```text
 🌞 Morning    155 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.72% 
-🌆 Daytime    287 commits    ████████░░░░░░░░░░░░░░░░░   34.66% 
-🌃 Evening    309 commits    █████████░░░░░░░░░░░░░░░░   37.32% 
+🌆 Daytime    283 commits    ████████░░░░░░░░░░░░░░░░░   34.18% 
+🌃 Evening    313 commits    █████████░░░░░░░░░░░░░░░░   37.8% 
 🌙 Night      77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.3%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.47% 
+Monday       85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
 Tuesday      145 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.51% 
 Wednesday    165 commits    █████░░░░░░░░░░░░░░░░░░░░   19.93% 
 Thursday     140 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
-Friday       177 commits    █████░░░░░░░░░░░░░░░░░░░░   21.38% 
+Friday       187 commits    █████░░░░░░░░░░░░░░░░░░░░   22.58% 
 Saturday     51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.16% 
 Sunday       55 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.64%
 
@@ -177,7 +177,7 @@ Windows                  10 hrs 10 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/02/2022 12:31:34 UTC
+ Last Updated on 04/02/2022 18:26:16 UTC
 <!--END_SECTION:waka-->
 </details>
 
