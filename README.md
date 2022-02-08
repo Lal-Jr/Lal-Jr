@@ -116,7 +116,7 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -124,7 +124,7 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 **🐱 My GitHub Data** 
 
-> 🏆 132 Contributions in the Year 2022
+> 🏆 140 Contributions in the Year 2022
  > 
 > 📦 289.6 kB Used in GitHub's Storage 
  > 
@@ -137,9 +137,9 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    158 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.08% 
-🌆 Daytime    276 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌃 Evening    314 commits    █████████░░░░░░░░░░░░░░░░   37.92% 
+🌞 Morning    153 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
+🌆 Daytime    273 commits    ████████░░░░░░░░░░░░░░░░░   32.97% 
+🌃 Evening    322 commits    █████████░░░░░░░░░░░░░░░░   38.89% 
 🌙 Night      80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.66%
 
 ```
@@ -147,9 +147,9 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 ```text
 Monday       85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
-Tuesday      143 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
+Tuesday      151 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.24% 
 Wednesday    151 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.24% 
-Thursday     137 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
+Thursday     129 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
 Friday       187 commits    █████░░░░░░░░░░░░░░░░░░░░   22.58% 
 Saturday     51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.16% 
 Sunday       74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%
@@ -180,7 +180,7 @@ Linux                    3 hrs 4 mins        ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/02/2022 06:28:49 UTC
+ Last Updated on 08/02/2022 18:26:51 UTC
 <!--END_SECTION:waka-->
 </details>
 
