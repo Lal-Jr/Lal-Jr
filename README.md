@@ -116,6 +116,8 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
   <br />
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2058%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177%20Thousand%20lines%20of%20code-blue)
@@ -159,17 +161,17 @@ Sunday       74 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               18 hrs 16 mins      ███████████████████████░░   94.81% 
-CSS                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.16% 
+JavaScript               18 hrs 1 min        ████████████████████████░   95.8% 
+CSS                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  19 hrs 16 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 48 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  16 hrs 12 mins      █████████████████████░░░░   84.04% 
-Linux                    3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.96%
+Windows                  15 hrs 44 mins      █████████████████████░░░░   83.64% 
+Linux                    3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.36%
 
 ```
 
@@ -178,7 +180,7 @@ Linux                    3 hrs 4 mins        ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/02/2022 01:20:17 UTC
+ Last Updated on 09/02/2022 12:38:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
