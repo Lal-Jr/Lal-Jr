@@ -116,15 +116,13 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 142 Contributions in the Year 2022
+> 🏆 144 Contributions in the Year 2022
  > 
 > 📦 289.7 kB Used in GitHub's Storage 
  > 
@@ -138,8 +136,8 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 ```text
 🌞 Morning    153 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.43% 
-🌆 Daytime    273 commits    ████████░░░░░░░░░░░░░░░░░   32.89% 
-🌃 Evening    324 commits    █████████░░░░░░░░░░░░░░░░   39.04% 
+🌆 Daytime    271 commits    ████████░░░░░░░░░░░░░░░░░   32.65% 
+🌃 Evening    326 commits    █████████░░░░░░░░░░░░░░░░   39.28% 
 🌙 Night      80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.64%
 
 ```
@@ -148,10 +146,10 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 ```text
 Monday       85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
 Tuesday      151 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.19% 
-Wednesday    153 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.43% 
-Thursday     129 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
+Wednesday    154 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
+Thursday     127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
 Friday       187 commits    █████░░░░░░░░░░░░░░░░░░░░   22.53% 
-Saturday     51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.14% 
+Saturday     52 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
 Sunday       74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.92%
 
 ```
@@ -181,7 +179,7 @@ Linux                    1 hr 28 mins        ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/02/2022 12:37:09 UTC
+ Last Updated on 13/02/2022 01:22:02 UTC
 <!--END_SECTION:waka-->
 </details>
 
