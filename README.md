@@ -126,7 +126,7 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 > 🏆 168 Contributions in the Year 2022
  > 
-> 📦 289.2 kB Used in GitHub's Storage 
+> 📦 289.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -176,7 +176,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/03/2022 06:33:58 UTC
+ Last Updated on 01/04/2022 12:47:39 UTC
 <!--END_SECTION:waka-->
 </details>
 
