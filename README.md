@@ -116,7 +116,7 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -126,7 +126,7 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 > 🏆 172 Contributions in the Year 2022
  > 
-> 📦 289.2 kB Used in GitHub's Storage 
+> 📦 289.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -176,7 +176,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/05/2022 12:54:02 UTC
+ Last Updated on 12/05/2022 18:34:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
