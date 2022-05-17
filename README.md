@@ -116,17 +116,17 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 172 Contributions in the Year 2022
+> 🏆 174 Contributions in the Year 2022
  > 
-> 📦 289.2 kB Used in GitHub's Storage 
+> 📦 288.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -138,8 +138,8 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 ```text
 🌞 Morning    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-🌆 Daytime    249 commits    ████████░░░░░░░░░░░░░░░░░   32.59% 
-🌃 Evening    328 commits    ██████████░░░░░░░░░░░░░░░   42.93% 
+🌆 Daytime    251 commits    ████████░░░░░░░░░░░░░░░░░   32.85% 
+🌃 Evening    326 commits    ██████████░░░░░░░░░░░░░░░   42.67% 
 🌙 Night      81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6%
 
 ```
@@ -147,12 +147,12 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
 
 ```text
 Monday       85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
-Tuesday      134 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
+Tuesday      136 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.8% 
 Wednesday    150 commits    █████░░░░░░░░░░░░░░░░░░░░   19.63% 
 Thursday     113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
 Friday       152 commits    █████░░░░░░░░░░░░░░░░░░░░   19.9% 
 Saturday     55 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.2% 
-Sunday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82%
+Sunday       73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55%
 
 ```
 
@@ -176,7 +176,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/05/2022 06:34:13 UTC
+ Last Updated on 17/05/2022 12:53:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
