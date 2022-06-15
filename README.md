@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey , I am Lal-Jr <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="70px">
+# Hey , I am Lal-Jr <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="70" height="70">
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Lal-Jr)
 
