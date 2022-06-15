@@ -8,7 +8,7 @@
 
 Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker 👨‍💻 . Currently, pursuing BTech🏆 in Electrical and Electronics Engineering from Govt. Engineering College, Barton Hill, Trivandrum. Beside's programming, I'm basically a Foodie and Movie enthusiast.
 
-<img align="right" alt="GIF" src="https://c.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif" width="500" height="250"/>
+<img align="right" alt="GIF" src="https://c.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif" width="450" height="250"/>
 
 ## About Me 👱🏼
 
