@@ -116,7 +116,7 @@ Hi, I'm Harish Lal, React Django Developer 📖 and an Aspiring Ethical Hacker �
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -161,13 +161,15 @@ Sunday       66 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 6 mins              ████████████████░░░░░░░░░   66.53% 
+C++                      3 mins              ███████░░░░░░░░░░░░░░░░░░   31.33% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.0%
 
 ```
 
@@ -176,7 +178,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/06/2022 18:33:56 UTC
+ Last Updated on 16/06/2022 02:04:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
