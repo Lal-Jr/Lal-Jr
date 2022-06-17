@@ -116,7 +116,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -124,7 +124,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 
 **🐱 My GitHub Data** 
 
-> 🏆 188 Contributions in the Year 2022
+> 🏆 191 Contributions in the Year 2022
  > 
 > 📦 288.8 kB Used in GitHub's Storage 
  > 
@@ -138,8 +138,8 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 
 ```text
 🌞 Morning    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
-🌆 Daytime    221 commits    ███████░░░░░░░░░░░░░░░░░░   30.52% 
-🌃 Evening    313 commits    ██████████░░░░░░░░░░░░░░░   43.23% 
+🌆 Daytime    219 commits    ███████░░░░░░░░░░░░░░░░░░   30.25% 
+🌃 Evening    315 commits    ███████████░░░░░░░░░░░░░░   43.51% 
 🌙 Night      84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.6%
 
 ```
@@ -148,9 +148,9 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 ```text
 Monday       81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
 Tuesday      127 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
-Wednesday    150 commits    █████░░░░░░░░░░░░░░░░░░░░   20.72% 
+Wednesday    149 commits    █████░░░░░░░░░░░░░░░░░░░░   20.58% 
 Thursday     100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
-Friday       151 commits    █████░░░░░░░░░░░░░░░░░░░░   20.86% 
+Friday       152 commits    █████░░░░░░░░░░░░░░░░░░░░   20.99% 
 Saturday     49 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.77% 
 Sunday       66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.12%
 
@@ -178,7 +178,7 @@ Windows                  43 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/06/2022 12:50:05 UTC
+ Last Updated on 17/06/2022 18:34:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
