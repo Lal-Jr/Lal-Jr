@@ -116,7 +116,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -179,7 +179,7 @@ Windows                  1 hr 35 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/06/2022 02:08:16 UTC
+ Last Updated on 18/06/2022 06:32:42 UTC
 <!--END_SECTION:waka-->
 </details>
 
