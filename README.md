@@ -116,7 +116,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -124,7 +124,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 
 **🐱 My GitHub Data** 
 
-> 🏆 206 Contributions in the Year 2022
+> 🏆 207 Contributions in the Year 2022
  > 
 > 📦 288.9 kB Used in GitHub's Storage 
  > 
@@ -146,8 +146,8 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.01% 
-Tuesday      126 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.12% 
+Monday       82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
+Tuesday      125 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
 Wednesday    148 commits    █████░░░░░░░░░░░░░░░░░░░░   20.11% 
 Thursday     100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
 Friday       151 commits    █████░░░░░░░░░░░░░░░░░░░░   20.52% 
@@ -179,7 +179,7 @@ Windows                  5 hrs 13 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/06/2022 12:49:57 UTC
+ Last Updated on 20/06/2022 18:38:28 UTC
 <!--END_SECTION:waka-->
 </details>
 
