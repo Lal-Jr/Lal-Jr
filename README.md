@@ -116,15 +116,15 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 211 Contributions in the Year 2022
+> 🏆 215 Contributions in the Year 2022
  > 
 > 📦 288.9 kB Used in GitHub's Storage 
  > 
@@ -137,21 +137,21 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-🌆 Daytime    226 commits    ███████░░░░░░░░░░░░░░░░░░   30.66% 
-🌃 Evening    314 commits    ██████████░░░░░░░░░░░░░░░   42.61% 
+🌞 Morning    111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
+🌆 Daytime    228 commits    ███████░░░░░░░░░░░░░░░░░░   30.94% 
+🌃 Evening    310 commits    ██████████░░░░░░░░░░░░░░░   42.06% 
 🌙 Night      88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.94%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
+Monday       78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.58% 
 Tuesday      126 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
 Wednesday    150 commits    █████░░░░░░░░░░░░░░░░░░░░   20.35% 
 Thursday     100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
-Friday       151 commits    █████░░░░░░░░░░░░░░░░░░░░   20.49% 
-Saturday     59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.01% 
+Friday       153 commits    █████░░░░░░░░░░░░░░░░░░░░   20.76% 
+Saturday     61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
 Sunday       69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.36%
 
 ```
@@ -178,7 +178,7 @@ Windows                  5 hrs 16 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/06/2022 12:51:14 UTC
+ Last Updated on 24/06/2022 18:35:35 UTC
 <!--END_SECTION:waka-->
 </details>
 
