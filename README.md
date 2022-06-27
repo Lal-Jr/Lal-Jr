@@ -116,7 +116,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -126,7 +126,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 
 > 🏆 215 Contributions in the Year 2022
  > 
-> 📦 289.0 kB Used in GitHub's Storage 
+> 📦 288.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -178,7 +178,7 @@ Linux                    2 mins              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/06/2022 02:13:19 UTC
+ Last Updated on 27/06/2022 06:35:50 UTC
 <!--END_SECTION:waka-->
 </details>
 
