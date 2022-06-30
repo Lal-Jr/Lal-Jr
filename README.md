@@ -116,7 +116,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -161,15 +161,15 @@ Sunday       69 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               38 mins             █████████████░░░░░░░░░░░░   51.6% 
-C++                      36 mins             ████████████░░░░░░░░░░░░░   48.4%
+JavaScript               38 mins             ███████████████████████░░   94.6% 
+C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.4%
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.0%
+VS Code                  41 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        ████████████████████████░   97.05% 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95%
+Windows                  38 mins             ███████████████████████░░   94.6% 
+Linux                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.4%
 
 ```
 
@@ -178,7 +178,7 @@ Linux                    2 mins              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/06/2022 18:36:55 UTC
+ Last Updated on 30/06/2022 02:17:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
