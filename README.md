@@ -13,7 +13,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 ## About Me 👱🏼
 
 - 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
-- 🌱 I’m currently mastering NextJS
+- 🌱 I’m currently mastering NextJS & TaiwindCSS
 - 💬 How to reach me: 
     - **LinkedIn** [@LalJr_Harish](https://www.linkedin.com/in/laljr-harish/)
     - **Instagram** [@Lal-Jr](https://www.instagram.com/_lal._.jr_/)
