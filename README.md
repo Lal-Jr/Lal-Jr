@@ -110,17 +110,17 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-175%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 242 Contributions in the Year 2022
+> 🏆 245 Contributions in the Year 2022
  > 
-> 📦 289.6 kB Used in GitHub's Storage 
+> 📦 289.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -131,22 +131,22 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
-🌆 Daytime    221 commits    ███████░░░░░░░░░░░░░░░░░░   29.7% 
-🌃 Evening    322 commits    ██████████░░░░░░░░░░░░░░░   43.28% 
-🌙 Night      90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1%
+🌞 Morning    111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
+🌆 Daytime    221 commits    ███████░░░░░░░░░░░░░░░░░░   29.59% 
+🌃 Evening    325 commits    ███████████░░░░░░░░░░░░░░   43.51% 
+🌙 Night      90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
-Tuesday      124 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Wednesday    149 commits    █████░░░░░░░░░░░░░░░░░░░░   20.03% 
-Thursday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
-Friday       143 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.22% 
-Saturday     75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.08% 
-Sunday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.54%
+Monday       78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
+Tuesday      124 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.6% 
+Wednesday    149 commits    █████░░░░░░░░░░░░░░░░░░░░   19.95% 
+Thursday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
+Friday       146 commits    █████░░░░░░░░░░░░░░░░░░░░   19.54% 
+Saturday     75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
+Sunday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.5%
 
 ```
 
@@ -173,7 +173,7 @@ Windows                  58 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 12:56:25 UTC
+ Last Updated on 22/07/2022 18:37:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
