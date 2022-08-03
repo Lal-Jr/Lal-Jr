@@ -110,7 +110,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -118,7 +118,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 
 **🐱 My GitHub Data** 
 
-> 🏆 314 Contributions in the Year 2022
+> 🏆 316 Contributions in the Year 2022
  > 
 > 📦 290.5 kB Used in GitHub's Storage 
  > 
@@ -131,8 +131,8 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-🌆 Daytime    221 commits    ███████░░░░░░░░░░░░░░░░░░   27.76% 
+🌞 Morning    118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.82% 
+🌆 Daytime    219 commits    ███████░░░░░░░░░░░░░░░░░░   27.51% 
 🌃 Evening    349 commits    ███████████░░░░░░░░░░░░░░   43.84% 
 🌙 Night      110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.82%
 
@@ -141,8 +141,8 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 
 ```text
 Monday       69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
-Tuesday      124 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
-Wednesday    158 commits    █████░░░░░░░░░░░░░░░░░░░░   19.85% 
+Tuesday      122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.33% 
+Wednesday    160 commits    █████░░░░░░░░░░░░░░░░░░░░   20.1% 
 Thursday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
 Friday       153 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.22% 
 Saturday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
@@ -172,7 +172,7 @@ Windows                  36 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/08/2022 02:19:54 UTC
+ Last Updated on 03/08/2022 06:35:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
