@@ -120,7 +120,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 
 > 🏆 391 Contributions in the Year 2022
  > 
-> 📦 290.6 kB Used in GitHub's Storage 
+> 📦 290.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -155,13 +155,13 @@ Sunday       84 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 38 mins        █████████████████████████   100.0%
+C++                      2 hrs 36 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 36 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.0%
+Windows                  2 hrs 36 mins       █████████████████████████   100.0%
 
 ```
 
@@ -170,7 +170,7 @@ Windows                  1 hr 38 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/08/2022 12:51:56 UTC
+ Last Updated on 06/08/2022 02:12:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
