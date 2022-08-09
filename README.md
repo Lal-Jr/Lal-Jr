@@ -110,7 +110,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -118,7 +118,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 
 **🐱 My GitHub Data** 
 
-> 🏆 409 Contributions in the Year 2022
+> 🏆 415 Contributions in the Year 2022
  > 
 > 📦 290.6 kB Used in GitHub's Storage 
  > 
@@ -132,21 +132,21 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 
 ```text
 🌞 Morning    118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
-🌆 Daytime    239 commits    ███████░░░░░░░░░░░░░░░░░░   28.18% 
-🌃 Evening    332 commits    █████████░░░░░░░░░░░░░░░░   39.15% 
-🌙 Night      159 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.75%
+🌆 Daytime    245 commits    ███████░░░░░░░░░░░░░░░░░░   28.89% 
+🌃 Evening    330 commits    █████████░░░░░░░░░░░░░░░░   38.92% 
+🌙 Night      155 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.28%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.73% 
-Tuesday      124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+Tuesday      130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.33% 
 Wednesday    151 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
 Thursday     123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
 Friday       189 commits    █████░░░░░░░░░░░░░░░░░░░░   22.29% 
-Saturday     96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
-Sunday       91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.73%
+Saturday     91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
+Sunday       90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.61%
 
 ```
 
@@ -170,7 +170,7 @@ Windows                  5 hrs 8 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/08/2022 06:36:39 UTC
+ Last Updated on 09/08/2022 12:58:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
