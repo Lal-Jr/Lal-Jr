@@ -110,15 +110,15 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 471 Contributions in the Year 2022
+> 🏆 472 Contributions in the Year 2022
  > 
 > 📦 290.7 kB Used in GitHub's Storage 
  > 
@@ -132,16 +132,16 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 
 ```text
 🌞 Morning    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
-🌆 Daytime    192 commits    ██████░░░░░░░░░░░░░░░░░░░   25.67% 
-🌃 Evening    292 commits    █████████░░░░░░░░░░░░░░░░   39.04% 
+🌆 Daytime    193 commits    ██████░░░░░░░░░░░░░░░░░░░   25.8% 
+🌃 Evening    291 commits    █████████░░░░░░░░░░░░░░░░   38.9% 
 🌙 Night      158 commits    █████░░░░░░░░░░░░░░░░░░░░   21.12%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
-Tuesday      110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+Monday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
+Tuesday      109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
 Wednesday    152 commits    █████░░░░░░░░░░░░░░░░░░░░   20.32% 
 Thursday     96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
 Friday       164 commits    █████░░░░░░░░░░░░░░░░░░░░   21.93% 
@@ -170,7 +170,7 @@ Windows                  55 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 07:03:21 UTC
+ Last Updated on 05/09/2022 12:51:08 UTC
 <!--END_SECTION:waka-->
 </details>
 
