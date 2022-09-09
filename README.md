@@ -120,7 +120,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 
 > 🏆 472 Contributions in the Year 2022
  > 
-> 📦 290.6 kB Used in GitHub's Storage 
+> 📦 290.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -170,7 +170,7 @@ Windows                  1 hr 13 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/09/2022 06:45:56 UTC
+ Last Updated on 09/09/2022 12:57:08 UTC
 <!--END_SECTION:waka-->
 </details>
 
