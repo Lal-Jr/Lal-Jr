@@ -155,13 +155,13 @@ Sunday       67 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -170,7 +170,7 @@ Windows                  17 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2022 18:43:49 UTC
+ Last Updated on 13/09/2022 02:48:48 UTC
 <!--END_SECTION:waka-->
 </details>
 
