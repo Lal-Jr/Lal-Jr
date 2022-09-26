@@ -128,49 +128,12 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
  > 
 > 🔑 17 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
-🌆 Daytime    178 commits    ██████░░░░░░░░░░░░░░░░░░░   25.57% 
-🌃 Evening    271 commits    █████████░░░░░░░░░░░░░░░░   38.94% 
-🌙 Night      154 commits    █████░░░░░░░░░░░░░░░░░░░░   22.13%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
-Tuesday      95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
-Wednesday    140 commits    █████░░░░░░░░░░░░░░░░░░░░   20.11% 
-Thursday     90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
-Friday       156 commits    █████░░░░░░░░░░░░░░░░░░░░   22.41% 
-Saturday     80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
-Sunday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 13:00:09 UTC
+ Last Updated on 26/09/2022 18:40:42 UTC
 <!--END_SECTION:waka-->
 </details>
 
