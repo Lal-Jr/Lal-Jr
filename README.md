@@ -110,7 +110,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
   <br />
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -155,14 +155,14 @@ Sunday       67 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      11 mins             ████████████████████████░   99.22% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
+C++                      37 mins             █████████████████████████   99.75% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.0%
+VS Code                  37 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.0%
+Windows                  37 mins             █████████████████████████   100.0%
 
 ```
 
@@ -171,7 +171,7 @@ Windows                  11 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/11/2022 18:37:26 UTC
+ Last Updated on 02/11/2022 02:32:30 UTC
 <!--END_SECTION:waka-->
 </details>
 
