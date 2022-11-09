@@ -118,7 +118,7 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
 
 **🐱 My GitHub Data** 
 
-> 🏆 479 Contributions in the Year 2022
+> 🏆 480 Contributions in the Year 2022
  > 
 > 📦 290.8 kB Used in GitHub's Storage 
  > 
@@ -128,49 +128,12 @@ Hi, I'm Harish Lal, React Developer 📖 and an Aspiring Ethical Hacker 👨‍�
  > 
 > 🔑 17 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
-🌆 Daytime    178 commits    ██████░░░░░░░░░░░░░░░░░░░   25.54% 
-🌃 Evening    272 commits    █████████░░░░░░░░░░░░░░░░   39.02% 
-🌙 Night      155 commits    █████░░░░░░░░░░░░░░░░░░░░   22.24%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
-Tuesday      98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
-Wednesday    138 commits    █████░░░░░░░░░░░░░░░░░░░░   19.8% 
-Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Friday       155 commits    █████░░░░░░░░░░░░░░░░░░░░   22.24% 
-Saturday     79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
-Sunday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.61%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 13:00:07 UTC
+ Last Updated on 09/11/2022 18:34:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
