@@ -1,11 +1,11 @@
 
 <div align="center">
-<img alt="GIF" src="https://media.tenor.com/nVPwISdBlxgAAAAC/bored-sigh.gif" />
-</div>
-<div align="center">
-
+    
 # <samp> Hey , I am Lal-Jr </samp> <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="70" height="70">
+<img alt="GIF" src="https://media.tenor.com/nVPwISdBlxgAAAAC/bored-sigh.gif" /> 
 </div>
+
+<br />
 
 ```
 - 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
