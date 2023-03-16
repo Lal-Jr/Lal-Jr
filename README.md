@@ -4,84 +4,33 @@
 </div>
 <div align="center">
 
-# Hey , I am Lal-Jr <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="70" height="70">
+# <samp> Hey , I am Lal-Jr </samp> <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="70" height="70">
 </div>
 
+```
 - 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
 - 🌱 I’m currently mastering NextJS & TailwindCSS
-- 💬 How to reach me: 
-    - **LinkedIn** [@LalJr_Harish](https://www.linkedin.com/in/laljr-harish/)
-    - **Instagram** [@Lal-Jr](https://www.instagram.com/_lal._.jr_/)
-    
-## Utilities 📚 
+```
+## <samp> Utilities 📚 </samp>
 
-<details>	
-  <summary><b>Languages</b></summary>
-  
-  <br />
-  
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<div align="center">
+    
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  
-</details>
-
-<details>	
-  <summary><b>Frameworks</b></summary>
-  
-  <br />  
-  
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-  
-</details>
+    
+</div>
 
-<details>	
-  <summary><b>Databases</b></summary>
-  
-  <br />
-  
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  
-</details>
-
-<details>	
-  <summary><b>Operating Systems</b></summary>
-
-  <br />
-  
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-  
-</details>
-
-<details>	
-  <summary><b>IDE and Tools</b></summary>
-  
-  <br />
-  
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  
-</details>
-
-##  Stats 📈 
+## <samp> Stats 📈 </samp>
 
 <details>
-  <summary><b>My GitHub Stats 📊</b></summary>
+  <summary><b><samp> My GitHub Stats 📊 </samp></b></summary>
   
   <br />
 <a href="https://github.com/Lal-Jr">
@@ -93,14 +42,14 @@
 </details>
 
 <details>	
-  <summary><b>My GitHub Streaks 🔥</b></summary>
+  <summary><b><samp> My GitHub Streaks 🔥 </samp></b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lal-Jr&hide_border=true&theme=tokyonight&icon_color=6392DF" />
 </details>
 
 <details>
-<summary><b>My Wakatime Stats ⏲️</b></summary>
+<summary><samp><b> My Wakatime Stats ⏲️ </b></samp></summary>
   
   <br />
   
