@@ -28,4 +28,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Lal-Jr&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+![GitHub Snake Dark](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/output/github-contribution-grid-snake-dark.svg)
+
+
 </div>
