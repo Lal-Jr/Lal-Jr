@@ -20,7 +20,7 @@
 
 </div>
 
-## <samp> 🐍 Contribution Graph </samp>
+## <samp> 🐍 Contribution Graph: </samp>
 
 <div align="center">
     
