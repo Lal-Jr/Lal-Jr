@@ -20,15 +20,17 @@
 
 </div>
 
-## <samp> 📊 GitHub Stats </samp>
+## <samp> 🐍 Contribution Graph </samp>
 
 <div align="center">
     
-![](https://github-readme-stats.vercel.app/api?username=Lal-Jr&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lal-Jr&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lal-Jr&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/output/github-contribution-grid-snake.svg" />
+</picture>
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/output/github-contribution-grid-snake-dark.svg)
 
 
 </div>
