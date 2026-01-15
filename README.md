@@ -8,8 +8,8 @@
 <br />
 
 ```
-- 👨🏽‍💻 I’m currently working on getting a proper sleep schedule :wink:
-- 🌱 I’m currently getting a hold of FE and trying to put my foot in BE
+- 👨🏽‍💻 Trying (and slowly succeeding) to fix my sleep schedule
+- 🌱 Getting comfortable with Frontend and putting my foot into Backend development
 ```
 
 ## <samp> 💻 Tech Stack: </samp>
