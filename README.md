@@ -6,13 +6,37 @@
 </div>
 
 <br />
+<div align="center">
+
+
+## 🗯️ <samp>Origin Story</samp>
+```
+💤 Current enemy: My sleep schedule (it’s winning)
+🌱 Leveling up: Frontend mastery + sneaking into Backend territory
 
 ```
-- 👨🏽‍💻 Trying (and slowly succeeding) to fix my sleep schedule
-- 🌱 Getting comfortable with Frontend and putting my foot into Backend development
-```
+🗯️ <samp>Personality Patch Notes</samp>
 
-## <samp> 💻 Tech Stack: </samp>
+Sarcasm enabled by default
+
+Debugs faster with coffee
+
+Commits at 2 AM (bad decisions included)
+
+Believes console.log() is a valid debugging tool
+
+### 🤖 AI: My Coding Brother
+
+I use AI like my brother:
+- helps me finish work faster ✅
+- so I can chill more 😌
+
+But like any sibling, it also:
+- randomly ruins my perfectly fine code
+- gaslights me with confidence
+- leaves me debugging *its mess* like it's my responsibility
+
+## <samp> 💻 Tools i use to suffer professionglay: </samp>
 
 <div align="center">
     
@@ -20,17 +44,17 @@
 
 </div>
 
-## <samp> 🐍 Contribution Graph: </samp>
+🐍 <samp>Proof I Actually Code</samp>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/output/github-contribution-grid-snake-dark.svg" /> <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/output/github-contribution-grid-snake.svg" /> </picture> </div>
 
+<samp>Final Panel</samp>
+“Any fool can write code that a computer can understand.
+Good developers write code that other humans can tolerate.”
+
+<sub><samp>— still working on that part</samp></sub>
 <div align="center">
-    
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
+<samp>If you’re here to judge my code...</samp>
+<samp>at least star a repo first 🙂</samp>
+</div> ```
 
 </div>
