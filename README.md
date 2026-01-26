@@ -11,15 +11,14 @@
 ```
 💤 Current enemy: My sleep schedule (it’s winning)
 🌱 Leveling up: Frontend mastery + sneaking into Backend territory
-Believes console.log() is a valid debugging tool
-I use AI like my brother:
-- helps me finish work faster ✅
-- so I can chill more 😌
+🧪 Debug philosophy: console.log() until the truth confesses
 
-But like any sibling, it also:
-- randomly ruins my perfectly fine code
-- gaslights me with confidence
-- leaves me debugging *its mess* like it's my responsibility
+🤖 AI = my coding brother:
+✅ helps me finish work faster
+✅ so I can chill more
+❌ but also randomly breaks my perfectly fine code
+❌ gaslights me with confidence
+❌ leaves me debugging its mess like it's my responsibility
 
 ```
 
@@ -34,14 +33,15 @@ But like any sibling, it also:
 ## <samp> 🐍 Proof I Actually Code</samp>
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/output/github-contribution-grid-snake-dark.svg" /> <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/output/github-contribution-grid-snake.svg" /> </picture> </div>
 
-## <samp>Final Panel</samp>
+## <samp> 💡 Thought for today</samp>
 “Any fool can write code that a computer can understand.
-Good developers write code that other humans can tolerate.”
-
+Good developers write code that other humans can understand.”
+<div align="right">
 <sub><samp>— still working on that part</samp></sub>
+</div>
 <div align="center">
 <samp>If you’re here to judge my code...</samp>
 <samp>at least star a repo first 🙂</samp>
-</div> ```
+</div>
 
 </div>
