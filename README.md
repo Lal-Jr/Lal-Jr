@@ -39,6 +39,7 @@ Good developers write code that other humans can understand.”
 <div align="right">
 <sub><samp>— still working on that part</samp></sub>
 </div>
+<br />
 <div align="center">
 <samp>If you’re here to judge my code...</samp>
 <samp>at least star a repo first 🙂</samp>
