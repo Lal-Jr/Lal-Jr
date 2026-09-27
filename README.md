@@ -1,10 +1,6 @@
 <div align="center">
 
-# <samp>Hey, I’m Harish Lal.</samp> <img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="70" height="70">
-
-<samp>Frontend @ Envestnet · EEE major who defected to software · Trivandrum, Kerala</samp>
-
-<img alt="GIF" src="https://media.tenor.com/nVPwISdBlxgAAAAC/bored-sigh.gif" />
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/banner.svg" width="100%" alt="Harish Lal — frontend by trade, backend by curiosity" />
 
 </div>
 
@@ -13,7 +9,7 @@
 ## 🗯️ <samp>Personality Patch Notes</samp>
 
 ```
-💤 Current enemy: My sleep schedule (it’s winning)
+💤 Current enemy: My sleep schedule (it's winning)
 🌱 Leveling up: Go on the backend, after years of hiding in the frontend
 🧪 Debug philosophy: console.log() until the truth confesses
 
@@ -26,25 +22,25 @@
 
 ```
 
-## 🛠️ <samp>Things I actually built (not just starred)</samp>
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
 
-**[SubTrack](https://github.com/Lal-Jr/SubTrack)** — A private, offline-first subscription tracker. Drop in a bank statement, it finds the recurring charges, shows what’s about to leave your account and when, and quietly judges the ones you forgot about. Everything stays on your device unless you opt into sync.
-<br/>`Next.js` `PowerSync` `SQLite (WASM)` `pdf.js` `Recharts` — [live](https://sub-track-psi.vercel.app)
+## 🔭 <samp>Currently</samp>
 
-**[CircleOfLife](https://github.com/Lal-Jr/CircleOfLife)** — Location-based community feed. Broadcast a "Help" request or organise a meetup with people actually near you. Feed ranking decays by distance, age and post type; anything urgent under 500m gets pinned to the top.
-<br/>`Go` `Gin` `PostgreSQL + PostGIS` `Redis` `SSE` `Next.js` `Mapbox`
+- **Learning** backend development in Go, and system design alongside it — the two keep explaining each other.
+- **Reading** *Designing Data-Intensive Applications*, plus a steady diet of engineering notes and blogs.
+- **Building** a portfolio that speaks for itself, so I don't have to.
 
-**[WhyIOpened](https://github.com/Lal-Jr/WhyIOpened)** — A Chrome extension for the "why is this tab even open?" problem. It asks why you opened a tab, remembers the answer, and hands it back when you return three days later with 47 tabs. One keypress to answer.
-<br/>`TypeScript` `React` `Chrome Extension APIs` `Fuse.js`
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
 
-**[BrainDump](https://github.com/Lal-Jr/BrainDump)** — The blog behind the portfolio. Record a voice note or dump rough notes, an AI pass turns it into a draft, you edit and publish. Runs standalone or proxied at `/blog`.
-<br/>`Next.js` `AI drafting` `Fly.io` — [live](https://braindump-spring-sun-9859.fly.dev/)
+## 🌤️ <samp>When I'm not in the editor</samp>
 
-**[NEPP](https://github.com/Lal-Jr/NEPP)** — ഞാൻ എല്ലാം പച്ചയ്ക്ക് പറയാം. A roasting AI companion that speaks pure, savage Malayalam, built to humble you out of impulsive purchases. Started life as a clean decision engine before mutating into this.
-<br/>`Go` `Gin` `PostgreSQL` `OpenAI` `Next.js`
+- **Asleep** — finally winning a round against the sleep schedule.
+- **Learning something new** that has nothing to do with the last thing I learned.
+- **In a theatre**, watching a movie. Big screen or it doesn't count.
+- **Watching football**, live if I can get to it. Local games count double.
+- **On the field**, actually playing. Any sport, as long as I'm moving.
 
-**[portfolio-v3](https://github.com/Lal-Jr/portfolio-v3)** — Version three of the portfolio. The first two never made it out. A "dark comic" aesthetic: handwritten type, rough borders, interactive storytelling.
-<br/>`Next.js 16` `Tailwind CSS 4` `Framer Motion` — [live](https://portfolio-v3-swart-pi.vercel.app)
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
 
 ## 💻 <samp>Tools I use to suffer professionally</samp>
 
@@ -58,6 +54,8 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
+
 ## 🐍 <samp>Proof I Actually Code</samp>
 
 <div align="center">
@@ -67,10 +65,12 @@
 </picture>
 </div>
 
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
+
 ## 💡 <samp>Thought for today</samp>
 
-“Any fool can write code that a computer can understand.
-Good developers write code that other humans can understand.”
+"Any fool can write code that a computer can understand.
+Good developers write code that other humans can understand."
 
 <div align="right">
 <sub><samp>— still working on that part</samp></sub>
@@ -91,7 +91,7 @@ Good developers write code that other humans can understand.”
 
 <br />
 
-<samp>If you’re here to judge my code...</samp>
+<samp>If you're here to judge my code...</samp>
 <br />
 <samp>at least star a repo first 🙂</samp>
 
