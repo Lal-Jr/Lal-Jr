@@ -15,17 +15,14 @@
 ## 🗯️ <samp>Personality Patch Notes</samp>
 
 ```
-💤 Current enemy: My sleep schedule (it's winning)
-🌱 Leveling up: Go on the backend, after years of hiding in the frontend
+💤 Current enemy: my sleep schedule (it's winning)
+🌱 Leveling up: Go on the backend, after years hiding in the frontend
 🧪 Debug philosophy: console.log() until the truth confesses
 
 🤖 AI = my coding brother:
-✅ helps me finish work faster
-✅ so I can chill more
-❌ but also randomly breaks my perfectly fine code
-❌ gaslights me with confidence
-❌ leaves me debugging its mess like it's my responsibility
-
+✅ finishes my work faster, so I can chill more
+❌ breaks my perfectly fine code, gaslights me with confidence,
+   then leaves me debugging its mess like it's my responsibility
 ```
 
 <img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
