@@ -2,15 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/banner.svg" width="100%" alt="Harish Lal — frontend by trade, backend by curiosity" />
 
-<br /><br />
+<br />
 
-<img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="70" height="70" alt="" />
+<img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="64" height="64" alt="" />
 
 <samp>Frontend @ Envestnet · learning Go and system design · Trivandrum, Kerala</samp>
 
 </div>
 
-<br />
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
 
 ## 🗯️ <samp>Personality Patch Notes</samp>
 
@@ -28,25 +28,24 @@
 
 ```
 
-## 🔭 <samp>Currently</samp>
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
 
-**Learning** backend development in Go, and system design alongside it — the two keep explaining each other.
-<br />
-**Reading** *Designing Data-Intensive Applications*, plus a steady diet of engineering notes and blogs.
-<br />
-**Building** a portfolio that speaks for itself, so I don't have to.
+| 🔭 <samp>Currently</samp> | 🌤️ <samp>Off the clock</samp> |
+| :-- | :-- |
+| **Learning** Go on the backend, with system design alongside it — the two keep explaining each other. | **Asleep**, finally winning a round against the sleep schedule. |
+| **Reading** *Designing Data-Intensive Applications*, plus a steady diet of engineering notes and blogs. | **Learning something** with nothing to do with the last thing I learned. |
+| **Building** a portfolio that speaks for itself, so I don't have to. | **In a theatre** watching a movie — big screen or it doesn't count. |
+| | **Football**, live wherever I can get to it, local games included — or on the field myself, any sport. |
 
-## 🌤️ <samp>When I'm not in the editor</samp>
-
-Asleep, finally winning a round against the sleep schedule. Learning something unrelated to the last thing I learned.
-In a theatre watching a movie — big screen or it doesn't count. Watching football live wherever I can get to it,
-local games included. Otherwise on the field myself, any sport, as long as I'm moving.
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
 
 ## 🛠️ <samp>Stack</samp>
 
 <samp>TypeScript · React · Next.js · Tailwind · Framer Motion</samp>
 <br />
 <samp>Go · Gin · PostgreSQL · PostGIS · Redis · SQLite · Docker</samp>
+
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
 
 ## 🐍 <samp>Proof I actually code</samp>
 
@@ -57,7 +56,9 @@ local games included. Otherwise on the field myself, any sport, as long as I'm m
 </picture>
 </div>
 
-## 📫 <samp>Find me</samp>
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
 
 <samp>[Portfolio](https://portfolio-v3-swart-pi.vercel.app) · [Blog](https://braindump-spring-sun-9859.fly.dev/) · [Email](mailto:harishlal80@gmail.com)</samp>
 
@@ -67,9 +68,7 @@ local games included. Otherwise on the field myself, any sport, as long as I'm m
 
 <br />
 
-<div align="center">
-
-<img src="https://media.tenor.com/nVPwISdBlxgAAAAC/bored-sigh.gif" width="320" alt="" />
+<img src="https://media.tenor.com/nVPwISdBlxgAAAAC/bored-sigh.gif" width="300" alt="" />
 
 <samp>If you're here to judge my code...</samp>
 <br />
