@@ -35,11 +35,17 @@
 
 <img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
 
-## 🛠️ <samp>Stack</samp>
+## 💻 <samp>Tools I use to suffer professionally</samp>
 
-<samp>TypeScript · React · Next.js · Tailwind · Framer Motion</samp>
-<br />
-<samp>Go · Gin · PostgreSQL · PostGIS · Redis · SQLite · Docker</samp>
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 <img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
 
@@ -54,6 +60,17 @@
 
 <img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
 
+## 💡 <samp>Thought for today</samp>
+
+“Any fool can write code that a computer can understand.
+Good developers write code that other humans can understand.”
+
+<div align="right">
+<sub><samp>— still working on that part</samp></sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
+
 <div align="center">
 
 <samp>[Portfolio](https://portfolio-v3-swart-pi.vercel.app) · [Blog](https://braindump-spring-sun-9859.fly.dev/) · [Email](mailto:harishlal80@gmail.com)</samp>
@@ -62,12 +79,8 @@
 <samp>[X](https://x.com/YOUR-HANDLE) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)</samp>
 -->
 
-<br />
+<br /><br />
 
-<img src="https://media.tenor.com/nVPwISdBlxgAAAAC/bored-sigh.gif" width="300" alt="" />
-
-<samp>If you're here to judge my code...</samp>
-<br />
-<samp>at least star a repo first 🙂</samp>
+<img src="https://media.tenor.com/nVPwISdBlxgAAAAC/bored-sigh.gif" width="540" alt="" />
 
 </div>
