@@ -34,8 +34,7 @@
 | :-- | :-- |
 | **Learning** Go on the backend, with system design alongside it — the two keep explaining each other. | **Asleep**, finally winning a round against the sleep schedule. |
 | **Reading** *Designing Data-Intensive Applications*, plus a steady diet of engineering notes and blogs. | **Learning something** with nothing to do with the last thing I learned. |
-| **Building** a portfolio that speaks for itself, so I don't have to. | **In a theatre** watching a movie — big screen or it doesn't count. |
-| | **Football**, live wherever I can get to it, local games included — or on the field myself, any sport. |
+| **Building** a portfolio that speaks for itself, so I don't have to. | **In a theatre**, or at the football — live wherever I can get to it, local games included. Otherwise on the field myself, any sport. |
 
 <img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
 
