@@ -59,6 +59,14 @@ Won't fix
 </picture>
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/cards/activity.svg" width="100%" alt="Contributions over the past year" />
+
+<img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/cards/stats.svg" width="100%" alt="Contributions, active days, longest streak, public repos, stars and most-used languages" />
+
+</div>
+
 <img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
 
 ## 💡 <samp>Thought for today</samp>
