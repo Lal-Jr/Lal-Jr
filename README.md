@@ -4,15 +4,11 @@
 
 <br />
 
-<img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" width="64" height="64" alt="" />
-
-<samp>Frontend @ Envestnet · learning Go and system design · Trivandrum, Kerala</samp>
+<img src="https://media.tenor.com/nVPwISdBlxgAAAAC/bored-sigh.gif" width="498" alt="" />
 
 </div>
 
 <img src="https://raw.githubusercontent.com/Lal-Jr/Lal-Jr/master/assets/divider.svg" width="100%" alt="" />
-
-## 🗯️ <samp>Personality Patch Notes</samp>
 
 ```
 v26.9 — latest patch
@@ -83,9 +79,5 @@ Good developers write code that other humans can understand.”
 <!-- Uncomment once the handles are right:
 <samp>[X](https://x.com/YOUR-HANDLE) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)</samp>
 -->
-
-<br /><br />
-
-<img src="https://media.tenor.com/nVPwISdBlxgAAAAC/bored-sigh.gif" width="540" alt="" />
 
 </div>
