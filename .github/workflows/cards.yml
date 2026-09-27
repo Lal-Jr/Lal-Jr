@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,15 +33,17 @@ jobs:
           GH_USER: ${{ github.repository_owner }}
         run: python scripts/generate_cards.py
 
-      - name: Collect output
+      - name: Push cards to the cards branch
         run: |
-          mkdir -p dist
-          cp assets/activity.svg assets/stats.svg dist/
-
-      - name: Push cards
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: cards
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          set -euo pipefail
+          mkdir -p /tmp/cards
+          cp assets/activity.svg assets/stats.svg /tmp/cards/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan cards-build
+          git rm -rf --cached . >/dev/null
+          rm -rf assets scripts .github README.md LICENSE charts .gitignore || true
+          cp /tmp/cards/activity.svg /tmp/cards/stats.svg .
+          git add activity.svg stats.svg
+          git commit -m "Update profile cards ($(date -u +%Y-%m-%d))"
+          git push -f origin cards-build:cards
