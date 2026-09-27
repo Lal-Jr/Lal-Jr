@@ -5,7 +5,7 @@ Reads only public GitHub data, writes two SVGs into assets/. No third-party
 service: the cards keep working as long as GitHub does.
 """
 import json, os, re, sys, urllib.request
-from datetime import date, datetime
+from datetime import date, datetime, timedelta, timezone
 
 USER = os.environ.get("GH_USER", "Lal-Jr")
 OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "assets")
@@ -139,15 +139,23 @@ def activity_card(days):
     return frame(W, H, p)
 
 
-def language_bytes(repos, user):
+def language_bytes(repos, user, window_days=730):
     """Sum bytes per language across repos.
 
     GitHub labels a repo by its single largest language, which hides a Go
     backend sitting inside a mostly-TypeScript repo. Bytes tell the truth.
+
+    Only repos pushed within window_days count. Averaged over everything ever
+    pushed, a pile of 2020 tutorial repos outvotes current work and the chart
+    stops describing the person it belongs to.
     """
     token = os.environ.get("GITHUB_TOKEN")
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=window_days)).isoformat()
+    recent = [r for r in repos if r.get("pushed_at", "") >= cutoff]
+    if len(recent) < 4:
+        recent = repos
     totals = {}
-    for r in repos:
+    for r in recent:
         try:
             langs = get(f"https://api.github.com/repos/{user}/{r['name']}/languages", token)
         except Exception:
@@ -184,7 +192,7 @@ def stats_card(days, repos, user):
         p.append(f'<text x="{x}" y="112" font-family="{MONO}" font-size="11" fill="{ZINC400}">{label}</text>')
         x += 168
     # language bar
-    p.append(f'<text x="48" y="152" font-family="{MONO}" font-size="11" fill="{ZINC400}">most used languages</text>')
+    p.append(f'<text x="48" y="152" font-family="{MONO}" font-size="11" fill="{ZINC400}">most used languages, last two years</text>')
     bx, bw, by = 48, W - 96, 162
     off = 0.0
     for name, n in top:
